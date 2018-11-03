@@ -1,0 +1,76 @@
+.background {
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    text-align: center;
+    padding: 0.5em 0.6em;
+    opacity: .7;
+    color: white;
+    background-color: blue;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+.jumbotron:hover, .reset:hover{
+    background-color: rgb(223, 0, 0);
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+#subtitle {
+    color: rgb(223, 0, 0);
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+
+body{
+	background: url('../images/cloudBG.jpeg');
+	font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+header{
+	margin-bottom: 20px;
+}
+
+.btn-primary,.reset{
+	background-color:rgb(223, 0, 0);
+    color: white;
+    border-style: solid;
+    border-color: blue;
+    font-family: 'Fjalla One', sans-serif;
+	font-size: 30px;
+	padding: 20px;
+	margin-top: 100px;
+}
+.btn-primary:hover, .reset:hover{
+	background-color: blue;
+}
+
+.container{
+	margin-top: 50px;
+	text-align: center;
+	height: 100%;
+    width: 700px;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+h2, #message, #finalMessage{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.thisChoice:hover{
+	background-color: #202364;
+	color: white;
+    padding: 10px;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
