@@ -1,2 +1,2 @@
 # TriviaGame
-week 5 hw
+https://jruyle3.github.io/TriviaGame/
